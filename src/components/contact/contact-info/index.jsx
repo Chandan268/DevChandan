@@ -7,17 +7,18 @@ import "./style.scss";
 const ContactInfo = () => {
     return (
         <div className="contact-info-box">   
-            <h4>
-                I would be happy to answer any questions you may have about freelance development or design.
-            </h4>
+           <h4>
+    I would be happy to answer any questions you may have about SEO or digital marketing.
+</h4>
+
 
             <div className="contact-option">
                 <FaPhoneAlt />
-                <span className="text">+91 6386489936</span>
+                <span className="text">+91 8218149017</span>
             </div>
             <div className="contact-option">
                 <MdEmail />
-                <span className="text">techsolution@gmail.com</span>
+                <span className="text">neerajmsharma2000@gmail.com</span>
             </div>
         </div>
     );

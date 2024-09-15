@@ -10,13 +10,10 @@ const filtersData = [
 
 
     {
-        name: "Web Apps",
-        id: "web-app",
+        name: "Website",
+        id: "web-site",
     },
-    {
-        name: "Mobile Apps",
-        id: "mobile-app",
-    },
+   
 ];
 
 const Filters = ({ filterProjects }) => {

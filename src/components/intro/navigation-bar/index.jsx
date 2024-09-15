@@ -20,7 +20,7 @@ const Navigation = () => {
     return (
         <div className="top-navigation-bar">
             <div className="app-logo">
-            <h3 style={{color:"white",fontWeight:"bold"}}>CK</h3>
+            <h3 style={{color:"white",fontWeight:"bold"}}>NS</h3>
                
             </div>
             <div

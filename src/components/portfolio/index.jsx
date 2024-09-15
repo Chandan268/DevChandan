@@ -6,38 +6,49 @@ import Showcase from "./showcase";
 
 import "./style.scss";
 
-import thumb1 from "../../images/portfolio/project1.png";
+import thumb1 from "../../images/portfolio/project1.jpg";
 import thumb2 from "../../images/portfolio/project2.jpg";
-import thumb3 from "../../images/portfolio/project3.png";
+import thumb3 from "../../images/portfolio/project3.jpg";
+import thumb4 from "../../images/portfolio/project4.jpg";
+
 
 
 const projectsData = [
     {
         id: 1,
-        name: "INNOTIME",
-        tags: ["mobile-app"],
+        name: "METSLAB.COM",
+        tags: ["web-site"],
         media: {
             thumbnail: thumb2,
         },
-        link: "https://example.com/innotime", // Add project link
+        link: "https://metslab.com/", 
     },
     {
         id: 2,
-        name: "INNOBT",
-        tags: ["web-app"],
+        name: "AAADUBAI.COM",
+        tags: ["web-site"],
         media: {
             thumbnail: thumb1,
         },
-        link: "https://example.com/innobt", // Add project link
+        link: "https://aaadubai.com/",     
     },
     {
         id: 3,
-        name: "SUDS-2-U",
-        tags: ["mobile-app"],
+        name: "YACHTEVENTS DUBAI.COM",
+        tags: ["web-site"],
         media: {
             thumbnail: thumb3,
         },
-        link: "https://play.google.com/store/apps/details?id=com.suds_2_u_new", // Add project link
+        link: "https://yachteventsdubai.com/", // Add project link
+    },
+    {
+        id: 4,
+        name: "AKINCO.AE",
+        tags: ["web-site"],
+        media: {
+            thumbnail: thumb4,
+        },
+        link: "https://akinco.ae/", // Add project link
     },
 ];
 

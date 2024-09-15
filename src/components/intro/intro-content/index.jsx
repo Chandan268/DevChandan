@@ -22,10 +22,10 @@ const IntroContent = () => {
                             </span>
                             <span className="text">, I Am</span>
                         </span>
-                        <span className="big-text">Chandan kumar</span>
+                        <span className="big-text">Neeraj Sharma</span>
                     </h1>
                     <p className="title">
-                        I am a passionate software developer with a strong background in building web and mobile applications. Over the years, I have honed my skills in modern technologies such as React, React Native, Node, and MongoDB, MySQL, crafting efficient and user-friendly solutions. Whether it's developing sleek interfaces or managing complex back-end systems, I am always eager to tackle new challenges in the tech world.
+                    Experienced Digital Marketing Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Search Engine Optimization (SEO), Interpersonal Skills, Graphic Design, Organization Skills, and Teamwork. Strong marketing professional with a Bachelor of Science -  from Dr. B. R. Ambedkar University, Agra.
                     </p>
                     <CallToAction
                         text="Contact me"
@@ -44,7 +44,7 @@ const IntroContent = () => {
                         <div className="icon">
                             <BsAwardFill />
                         </div>
-                        <div className="text">Best Development Service</div>
+                        <div className="text">Best SEO Service</div>
                     </div>
 
                     <div className="highlights verticle">

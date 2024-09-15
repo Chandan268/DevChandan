@@ -21,19 +21,12 @@
             width: 100%;
             max-width: 453px;
             display: block;
-            animation: rotate 5s linear infinite; /* Add animation */
+            border-radius: 5px;
+            // animation: rotate 5s linear infinite; /* Add animation */
         }
     }
     
     /* Keyframes for continuous rotation */
-    @keyframes rotate {
-        from {
-            transform: rotate(0deg);
-        }
-        to {
-            transform: rotate(360deg);
-        }
-    }
     
     
     .right-col {
@@ -47,6 +40,13 @@
             text-align: left;
             margin-top: 0;
         }
+    
+        .headingh{
+            color: orange;
+            font-weight: 700;
+        }
+
+        
         h2 {
             margin-bottom: 10px;
             @include small-screen {
