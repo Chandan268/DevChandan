@@ -6,7 +6,7 @@ import "./style.scss";
 
 const ContactInfo = () => {
     return (
-        <div className="contact-info-box">
+        <div className="contact-info-box">   
             <h4>
                 I would be happy to answer any questions you may have about freelance development or design.
             </h4>
